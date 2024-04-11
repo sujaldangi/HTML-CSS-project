@@ -1,0 +1,95 @@
+body{
+background-color:red ;
+}
+
+#nav ul{
+list-style:none;
+padding:40px;
+margin:20px;
+text_align: center;
+background-color:white;
+border-bottom: 2px solid black
+}
+
+#nav{
+background-color:white;
+height:35px;
+font-size:20px;
+font:helvetica;
+margin:50px;
+
+}
+
+#nav li{
+display:inline;
+padding:15px;
+verticle-align:middle;
+margin-left:-30px;
+}
+
+#nav a{
+text-decoration:none;
+color:black;
+padding:50px;
+verticle-align:middle;
+
+}
+
+.btn-sm{
+color:white;
+font-weight:bold;
+background-color:black;
+height:40px;
+width:120px;
+margin-left:90px;
+}
+
+#menu ul{
+list-style:none;
+padding:0px;
+margin:0px;
+
+}
+
+
+#menu  ul li a{
+
+text-decoration:none;
+font-family:helvetica;
+background-color:white;
+color:black;
+display:block;
+width:70px;
+margin:-12px;
+
+margin-left:40px;
+
+padding:55px;
+
+background-color:silver;
+text-allign:center;
+height:10px:
+line-height:25px;
+border-right:1px solid black;
+border-left:1px solid black;
+}
+iframe{
+background-color:white;
+border:50px solid silver;
+margin-left:40px;
+position:absolute;
+top:190px;
+left:250px;
+
+}
+
+
+#menu  ul li a:hover{
+text-decoration:underline;
+font-weight:bold;
+}
+#back{
+width:1253px;
+margin-left:19px;
+margin-top:-20px;
+}
